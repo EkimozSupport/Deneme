@@ -2,10 +2,10 @@
 
 ### A Anime Theme music bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@YuiHirasawaMusic_Bot](https://t.me/YuiHirasawaMusic_Bot)
+### Available on telegram as [@MissRoseMusic_bot](https://t.me/MissRoseMusic_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/b184fdb79e3ba8bc73ba8.jpg">
+  <img src="https://telegra.ph/file/fa0a1b839fb7a15ac0ed5.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/Deneme)
 
 #### Get Pyrogram String Session
 <a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
@@ -36,7 +36,7 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot
+$ git clone https://github.com/EkimozSupport/Deneme
 $ cd YuiHirasawaMusicBot
 # Upgrade sources
 # Install All Requirements 
